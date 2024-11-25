@@ -1,0 +1,14 @@
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\bin\Debug\net8.0\Kalkulatoroppgave.exe
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\bin\Debug\net8.0\Kalkulatoroppgave.deps.json
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\bin\Debug\net8.0\Kalkulatoroppgave.runtimeconfig.json
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\bin\Debug\net8.0\Kalkulatoroppgave.dll
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\bin\Debug\net8.0\Kalkulatoroppgave.pdb
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\obj\Debug\net8.0\Kalkulatoroppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\obj\Debug\net8.0\Kalkulatoroppgave.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\obj\Debug\net8.0\Kalkulatoroppgave.AssemblyInfo.cs
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\obj\Debug\net8.0\Kalkulatoroppgave.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\obj\Debug\net8.0\Kalkulatoroppgave.dll
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\obj\Debug\net8.0\refint\Kalkulatoroppgave.dll
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\obj\Debug\net8.0\Kalkulatoroppgave.pdb
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\obj\Debug\net8.0\Kalkulatoroppgave.genruntimeconfig.cache
+C:\Users\andre\Desktop\kh\c#\startbackend\Kalkulatoroppgave\obj\Debug\net8.0\ref\Kalkulatoroppgave.dll

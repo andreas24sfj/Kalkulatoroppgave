@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kalkulatoroppgave/1.0.0": {
+        "runtime": {
+          "Kalkulatoroppgave.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kalkulatoroppgave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
