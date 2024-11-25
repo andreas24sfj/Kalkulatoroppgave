@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kalkulatoroppgave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8befb82232d4b966e8182142bec8d3524902afa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kalkulatoroppgave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kalkulatoroppgave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
